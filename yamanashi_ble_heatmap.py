@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 import requests
 from datetime import datetime as dt, timedelta, time
 import pydeck as pdk
-import sys
+# import sys
 
-sys.path.append("./")
+# sys.path.append("./")
 from functions4kofu import *
 from matplotlib import rcParams
 rcParams['font.family'] = 'sans-serif'
