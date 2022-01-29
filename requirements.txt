@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+requests
+io
+csv
+datetime
+sys
+seaborn
